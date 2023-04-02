@@ -1,4 +1,5 @@
 # Estudo sobre implementação do Jaeger para geração de Tracing distribuídos.
+https://www.jaegertracing.io
 
 ## Configuração de logs e tags
 ```
